@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello, my name is Andre Nalbandian and I am working on hw1.
+=======
+Hello, my name is Andre Nalbandian
+>>>>>>> parent of 415d2a9 (added what I am working on)
